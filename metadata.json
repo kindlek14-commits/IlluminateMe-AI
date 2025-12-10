@@ -1,0 +1,8 @@
+{
+  "name": "Copy of IlluminateMe AI",
+  "description": "Create your hyper-realistic AI twin with extensive customization for fashion, automotive, and scenery across various industries. Supports Image and Video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
